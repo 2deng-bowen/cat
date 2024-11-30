@@ -1,0 +1,76 @@
+heart:muscular organ that functions as a pump, circulating blood throughout the body
+lung:a pair of spongy organs that are the primary organs of the respiratory system
+brain:the control center of the nervous system, located in the skull
+kidneyback of the abdomen,  filter blood and produce urinel
+liver:filters blood, produces bile, and produces proteins for blood clotting
+skin:protects the body from bacteria and fungi, maintain body temperature
+bones:support organs and muscles, and play a major role in calcium metabolism
+cell: the basic building block of all living things.
+organism: any living thing, like plants, animals, or bacteria.
+tissue: a group of cells that work together to do a specific job.
+organ: a body part made of tissues that work together, like the heart or lungs.
+nucleus: the control center of a cell that holds dna.
+dna: the molecule that carries genetic information.
+protein: molecules that help the body do work, like building muscles or fighting germs.
+chloroplast: a part of a plant cell that makes food using sunlight.
+photosynthesis: the process plants use to turn sunlight into energy.
+ecosystem: a community of living things and their environment.
+habitat: the natural home of a plant, animal, or other organism.
+species: a group of organisms that can have babies together.
+adaptation: a feature or behavior that helps an organism survive.
+respiration: the process of breaking down food for energy.
+mutation: a change in dna that can be good, bad, or neutral.
+gene: a part of dna that gives instructions for a specific trait.
+predator: an animal that hunts and eats other animals.
+prey: an animal that is hunted and eaten by predators.
+food chain: a path that shows who eats whom in an ecosystem.
+decomposer: an organism, like fungi, that breaks down dead material.atom: the smallest unit of matter that still has the properties of an element.
+element: a pure substance made of only one type of atom, like gold or oxygen.
+compound: a substance made of two or more different elements bonded together.
+molecule: a group of atoms bonded together, like water (h2o).
+electron: a tiny particle with a negative charge that orbits an atom’s nucleus.
+proton: a positively charged particle found in the nucleus of an atom.
+neutron: a neutral (no charge) particle found in the nucleus of an atom.
+nucleus: the center of an atom that holds protons and neutrons.
+periodic table: a chart showing all known elements arranged by their properties.
+chemical bond: a connection between atoms that holds them together in a molecule.
+ionic bond: a bond formed when one atom gives an electron to another atom.
+covalent bond: a bond formed when atoms share electrons.
+reaction: a process where substances change to form new substances.
+reactants: the starting materials in a chemical reaction.
+products: the substances made in a chemical reaction.
+acid: a substance that releases hydrogen ions (h⁺) in water, with a ph less than 7.
+base: a substance that releases hydroxide ions (oh⁻) in water, with a ph greater than 7.
+ph scale: a scale from 0 to 14 that measures how acidic or basic a substance is.
+solution: a mixture where one substance is dissolved in another.
+solvent: the substance that dissolves something, like water.
+solute: the substance that gets dissolved in a solution.
+chemical formula: a way to show what elements are in a compound, like co2.
+catalyst: a substance that speeds up a chemical reaction without being used up.
+energy: the ability to do work or cause change, often involved in chemical reactions.
+force: a push or pull that can change an object’s motion.
+motion: the change in an object’s position over time.
+velocity: the speed of an object in a specific direction.
+acceleration: the rate at which an object’s velocity changes.
+gravity: the force that pulls objects toward each other, like toward the Earth.
+mass: the amount of matter in an object.
+weight: the force of gravity acting on an object’s mass.
+energy: the ability to do work or cause change.
+kinetic energy: the energy an object has because it is moving.
+potential energy: the energy stored in an object due to its position or condition.
+work: the transfer of energy when a force moves an object.
+power: the rate at which work is done or energy is transferred.
+friction: a force that resists the motion of two surfaces sliding past each other.
+momentum: the product of an object’s mass and velocity, showing how hard it is to stop it.
+inertia: the tendency of an object to resist a change in motion.
+wave: a repeating disturbance that transfers energy from one place to another.
+frequency: how many waves pass a point in a certain amount of time.
+amplitude: the height of a wave, related to its energy.
+wavelength: the distance between two corresponding parts of a wave.
+light: a form of energy that travels in waves and can be seen by the human eye.
+sound: a form of energy made by vibrations that travel through air, water, or solids.
+electricity: the flow of electric charges, like in a circuit.
+current: the flow of electric charge in a conductor.
+voltage: the potential energy per charge that drives electric current.
+resistance: a material’s opposition to the flow of electric current.
+magnetism: the force of attraction or repulsion caused by moving electric charges.
